@@ -7,7 +7,6 @@ from bs4 import BeautifulSoup as BS
 import random
 import ipaddress
 #import logging
-#logging.debug('ошибок нет')
 #logging.info('This is an info message')
 #logging.warning('This is a warning message')
 #logging.error('This is an error message')
